@@ -1,0 +1,4 @@
+Title: SHINE - (Advanced) Fashion Engine 
+
+I have designed a MM system that allows users to search and browse outfits through keywords or visual examples.
+The user can ask for suggestions, based on input keywords, or for outfit completion based on a given starting image. 

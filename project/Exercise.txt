@@ -1,0 +1,10 @@
+1.D
+- a sinistra immagine di un dress con 3 frecce, color, texture, shape e relative metriche
+- slide con retrieval con quadratic euclidean
+- region segmentation
+- sift
+
+---- oppure
+approccio alla PIBE o SCENIQUE:
+- 32d hsv hist + k-means
+- esempio grafico accessori vs sector(montagna-ufficio)
